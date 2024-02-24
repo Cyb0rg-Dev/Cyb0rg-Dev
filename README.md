@@ -1,5 +1,5 @@
 🔭 I’m currently working on ...
-DevOps, Cloud, Nagios Core, Zabbix e RMM, Firewalls, Pfsense, Mikrotik, Nessus, Conhecimento em Ambientes Servidores e Desktop Linux, Windows,  Linguagens: Python, Shell Script, Terraform, Assembly e Bash, Virtualizadores VMware, Caixa virtual, Hyper-V, Proxmox VE, oVirt e XEN.
+DevOps, Cloud, Nagios Core, Zabbix e RMM, Firewalls, Pfsense, Mikrotik, Nessus, Conhecimento em Ambientes Servidores e Desktop Linux, Windows,  Linguagens: Python, Shell Script, Terraform, Assembly e Bash, Virtualizadores VMware, virtualBox, Hyper-V, Proxmox VE, oVirt e XEN.
 Azure/ GCP/ AWS/ Oracle.
 <!--
 **Cyb0rg-Dev/Cyb0rg-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
